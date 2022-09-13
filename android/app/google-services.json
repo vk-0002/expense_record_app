@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418300017547",
+    "project_id": "expenses-c41c5",
+    "storage_bucket": "expenses-c41c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418300017547:android:b9d0c488a85149dc47cd8e",
+        "android_client_info": {
+          "package_name": "com.example.money_spend_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418300017547-upge5tf9oih3b3deim7o2ojmh2n5m6gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0txrpyxywVEG3KnaR2nHWXqZqFpxm13A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418300017547-upge5tf9oih3b3deim7o2ojmh2n5m6gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
